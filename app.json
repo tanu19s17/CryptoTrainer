@@ -1,0 +1,12 @@
+{
+  "name": "CryptoTrainer",
+  "displayName": "CryptoTrainer",
+  "expo": {
+    "name": "CryptoTrainer",
+    "slug": "CryptoTrainer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
